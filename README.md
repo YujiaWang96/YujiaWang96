@@ -1,11 +1,21 @@
 ![11](https://github.com/YujiaWang96/Aaron-Wong/assets/98968815/400503de-11d1-4326-b9c0-50550578e473)
+
 <h1 align="center">Hi 👋, I'm Aaron Wong</h1>
 <h3 align="center">A MSCS student from The Northeastern University</h3>
-<img align = "right" alt = "coding" width = "410"  src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+<img align = "right" alt = "coding" width = "350"  src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yujiawang96&label=Profile%20views&color=0e75b6&style=flat" alt="yujiawang96" /> </p>
 
-- 💬 Ask me about **React, Reavt Native, JS, Java**
+- 🔭 I’m currently Studying at **The Northeastern University(Jan 2023- Dec 2025)**
+
+- 👯 I identify myself as **LGBTQ Group, Sexual Minority**
+
+- 🌱 I’m currently learning **React, Node.js, Spring...**
+
+- 🤝 I’m looking for **Software Development Engineer Internship & Job**
+
+- 💬 Ask me about **React, JS, Java...**
 
 - 📫 How to reach me **wyujia@umich.edu**
 
@@ -25,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yujiawang96&show_icons=true&locale=en" alt="yujiawang96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yujiawang96&" alt="yujiawang96" /></p>
+
