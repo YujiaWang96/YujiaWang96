@@ -1,4 +1,4 @@
-![11](https://github.com/YujiaWang96/Aaron-Wong/assets/98968815/400503de-11d1-4326-b9c0-50550578e473)
+![giphy](https://github.com/YujiaWang96/YujiaWang96/assets/98968815/42b0d648-cb7f-46de-8c0c-664832f5a1ea)
 
 <h1 align="center">Hi 👋, I'm Aaron Wong</h1>
 <h3 align="center">A MSCS student from The Northeastern University</h3>
