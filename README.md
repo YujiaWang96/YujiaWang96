@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **wyujia@umich.edu**
 
-- ⚡ Fun fact **I am funny, kind and outgoing!**
+- ⚡ Fun fact **I am funny, caring and outgoing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
