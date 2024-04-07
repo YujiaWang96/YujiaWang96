@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently Studying at **The Northeastern University(Jan 2023- Dec 2025)**
 
-- 👯 I identify myself as **LGBTQ Group, Sexual Minority**
-
 - 🌱 I’m currently learning **React, Node.js, Spring...**
 
 - 🤝 I’m looking for **Software Development Engineer Internship & Job**
