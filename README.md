@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JS, Java...**
 
-- 📫 How to reach me **wyujia@umich.edu**
+- 📫 How to reach me **wyujia@umich.edu/wyujia1114@gmail.com**
 
 - ⚡ Fun fact **I am funny, caring and outgoing!**
 
