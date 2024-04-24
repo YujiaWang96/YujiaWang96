@@ -1,6 +1,6 @@
 ![f52d56f8b42ffba35178d969615e07ca](https://github.com/YujiaWang96/YujiaWang96/assets/98968815/ac334143-824d-443e-8d8e-9f9fcba723aa)
 
-<h1 align="center">Hi 👋, I'm Aaron Wong</h1>
+<h1 align="center">Hi 👋, I'm Aaron Wong</h1> 
 <h3 align="center">A MSCS student from The Northeastern University</h3>
 
 <img align = "right" alt = "coding" width = "350"  src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
